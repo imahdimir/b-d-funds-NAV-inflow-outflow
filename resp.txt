@@ -1,0 +1,139 @@
+<!doctype html><html><head><title>.:TSETMC:. :: صندوق سرمایه گذاری</title><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-63076930-1"></script><script> window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'UA-63076930-1');</script><script>var LongRunnigPagesSite='http://cdn8.tsetmc.com';function ens(ty,sv){var lv=localStorage.getItem("v_"+ty);var t;if (lv==null || lv!=sv){var oX=new XMLHttpRequest();oX.open('GET', 'tsev2/res/loader.aspx?t='+ty+'&_'+sv,false);oX.send(null);t=oX.responseText;if(t[t.length-1]!=';') return;localStorage.setItem("v_"+ty,sv);localStorage.setItem("t_"+ty,t)}else{t=localStorage.getItem("t_"+ty)}if (ty=='s'){document.write("<style>"+t+"</style>")}else{var h=document.getElementsByTagName('HEAD').item(0);var s=document.createElement("script");s.defer=true;s.text=t;h.appendChild(s)}}var version='527';ens('j',version); ens('s',version);  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })</script></head><body><div style="display:none">PSB is being developed by Pooya Paridel.</div><div id="FastView" class="slideTop"></div><div id="TopBar"><div id="company"><div id="company_logo"></div><div id="company_text">شركت مديريت فناوري بورس تهران<br/> Tehran Securities Exchange Technology Management Co</div></div><div id="menu_btns"></div><script>ShowMenuIcon(1)</script></div><div class="MainContainer"><form method="post" action="./Loader.aspx?ParTree=151324&amp;i=11197" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+</div>
+
+<script>
+    var RegNo = '11197';
+    var MFName = 'قابل معامله بذر امید آفرین';
+    var NetStatData = '';
+</script>
+<div class="box1 zFull silver">
+    <div class="header bigheader">
+        صندوق قابل معامله بذر امید آفرین<div id="ToolsBtn"></div>
+    </div>
+    <div id="MainContent" class="content">
+        <div>
+            <div class="box1 z1_3 tbl green h210">
+                <div class="header">معرفی صندوق</div>
+                <div class="content">
+                    <table class="table1">
+                        <tbody>
+                            <tr>
+                                <td>تاریخ اطلاعات</td>
+                                <td>1401/6/12</td>
+                            </tr>
+                            <tr>
+                                <td>نوع صندوق</td>
+                                <td>سهامی</td>
+                            </tr>
+                            <tr>
+                                <td>تاریخ آغاز فعالیت</td>
+                                <td>1398/8/16 (1,033 روز)</td>
+                            </tr>
+                            <tr>
+                                <td>مدیر صندوق</td>
+                                <td>شركت تامين سرمايه اميد</td>
+                            </tr>
+                            <tr>
+                                <td>متولی</td>
+                                <td>موسسه حسابرسي و خدمات مديريت آزموده كاران</td>
+                            </tr>
+                            <tr>
+                                <td>وب سایت</td>
+                                <td>http://www.bazreomidfund.ir</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="box1 z1_3 tbl red h210">
+                <div class="header">اطلاعات سرمایه گذاری</div>
+                <div class="content">
+                    <table class="table1">
+                        <tbody>
+                            <tr>
+                                <td>خالص ارزش دارایی ها</td>
+                                <td>3,484,858,395,721</td>
+                            </tr>
+                            <tr>
+                                <td>تعداد واحدهای سرمایه گذاری</td>
+                                <td>33,656,400</td>
+                            </tr>
+                            <tr>
+                                <td>قیمت آماری هر واحد</td>
+                                <td>103,543</td>
+                            </tr>
+                            <tr>
+                                <td>قیمت صدور هر واحد</td>
+                                <td>104,219</td>
+                            </tr>
+                            <tr>
+                                <td>قیمت ابطال هر واحد</td>
+                                <td>103,543</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="box1 z1_3 tbl blue h210" style="display:none">
+                <div class="header">ترکیب دارایی ها</div>
+                <div class="content">
+                    <table class="table1">
+                        <tbody>
+                            <tr>
+                                <td>پنج سهم با بیشترین وزن</td>
+                                <td style="direction: ltr;">28.91 %</td>
+                            </tr>
+                            <tr>
+                                <td>سایر سهام</td>
+                                <td style="direction: ltr;">91.14 %</td>
+                            </tr>
+                            <tr>
+                                <td>اوراق مشارکت و گواهی سپرده</td>
+                                <td style="direction: ltr;">0.03 %</td>
+                            </tr>
+                            <tr>
+                                <td>نقدی</td>
+                                <td style="direction: ltr;">1.09 %</td>
+                            </tr>
+                            <tr>
+                                <td>سایر دارایی ها</td>
+                                <td style="direction: ltr;">4.44 %</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="box1 white tbl z4_4 h250">
+                <div class="header">خالص ارزش دارایی ها</div>
+                <div class="content">
+                    <div id="NetStatChart" class="z4_4" style='height: 180px; text-align: left; direction: ltr'></div>
+                    <dl class="ZoomBox" style="display: none">
+                        <dd style='width: 100px; text-align: center; display: inline-block; vertical-align: top; direction: ltr;' id='NetStatChartL1'></dd>
+                        <dd style='vertical-align: bottom; display: inline-block; width: 720px; direction: ltr'>
+                            <input type='text' id='NetStatChartZoom' width='720px' min='0' max='0'></dd>
+                        <dd style='width: 100px; display: inline-block; text-align: center; vertical-align: top; direction: ltr' id='NetStatChartL2'></dd>
+                    </dl>
+                </div>
+            </div>
+            <div class="box1 white tbl z4_4 h250">
+                <div class="header">ارزش آماری، قیمت صدور و قیمت ابطال</div>
+                <div class="content">
+                    <div id="NAVChart" class="z4_4" style='height: 180px; text-align: left; direction: ltr'></div>
+                    <dl class="ZoomBox" style="display: none">
+                        <dd style='width: 100px; text-align: center; display: inline-block; vertical-align: top; direction: ltr;' id='NAVChartL1'></dd>
+                        <dd style='vertical-align: bottom; display: inline-block; width: 720px; direction: ltr'>
+                            <input type='text' id='NAVChartZoom' width='720px' min='0' max='0'></dd>
+                        <dd style='width: 100px; display: inline-block; text-align: center; vertical-align: top; direction: ltr' id='NAVChartL2'></dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>  ens('mf', version); ii = MutualFundInfo(); ii.StartMutualFundInfo();</script>
+</form>
+</div></body></html>
